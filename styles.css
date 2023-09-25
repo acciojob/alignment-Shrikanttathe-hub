@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+#head1{
+	text-align: center;;
+}
+#table-1{
+	border:1px solid black;
+	text-space: 1px;
+	border-collapse: collapse;
+	width:100%;
+}
+#t11{
+	border: 1px solid black; /* Border style for cells */
+    padding: 1px;
+}
+#t12{
+	border: 1px solid black; /* Border style for cells */
+    padding: 1px;
+	text-align: center;
+}
+#t13{
+	border: 1px solid black; /* Border style for cells */
+    padding: 1px;
+	text-align: right;
+}
+#r1{
+	background-color:green;
+	text-space: 1px;
+	height:20px
+}
+#r2{
+	background-color:blue;
+	text-space: 1px;
+	height:20px
+}
+#t-image{
+	 text-align: center;
+}
